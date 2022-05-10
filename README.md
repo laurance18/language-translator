@@ -2,7 +2,7 @@
 
 ## What is Language Translator?
 
-Language Translator is a python script made for the use of translating from one language to another. It has a not-pretty-smooth GUI - *we don't like terminal-based apps right?* 
+Language Translator is a python script made for the use of translating from one language to another. It has a not-pretty-but-smooth GUI - *we don't like terminal-based apps right?* 
 
 As of now, only four languages are supported since it's just a progressions project. Even though it's not the most well-optimized code, it still runs with pretty much no errors besides the limitation of the libraries that are used.
 
