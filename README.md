@@ -19,4 +19,4 @@ As of now, only four languages are supported since it's just a progressions proj
 
 ## Troubleshooting
 
-Currently there is no way for users to troubleshoot. Best thing you can do is tell me how I can recreate the bug so I can try to fix it!
+Currently there is no way for users to troubleshoot. Best thing you can do is open an issue and describe how I can re-create the bug!
