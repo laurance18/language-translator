@@ -8,6 +8,7 @@ def main(): #Mainloop for tkinter GUI
     #Setting up the screen
     Screen = Tk()
     Screen.title("Language Translator")
+    Screen.geometry("600x100")
     
     #Setting up language vars
     global language_opts #Needed for the translate function
@@ -49,7 +50,7 @@ def main(): #Mainloop for tkinter GUI
 
     #Button for calling function
     B = Button(Screen,text="Translate",command=translate) #The reason global vars was needed
-    B.grid(row=3,column=1,columnspan = 3)
+    B.grid(row=3,column=0,columnspan = 3)
     
     
     Screen.mainloop()
